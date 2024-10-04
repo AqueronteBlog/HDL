@@ -29,3 +29,4 @@
 /verilog/half_adder/incremental_db
 /verilog/half_adder/simulation
 /verilog/half_adder/output_files
+*.qws
