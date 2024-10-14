@@ -65,3 +65,11 @@ verilog/full_adder/simulation/modelsim/rtl_work/full_adder_tb/_primary.vhd
 verilog/full_adder/simulation/modelsim/rtl_work/full_adder_tb/verilog.prw
 verilog/full_adder/simulation/modelsim/rtl_work/full_adder_tb/verilog.psm
 verilog/full_adder/simulation/modelsim/vsim.wlf
+*.dfp
+*.rcfdb
+*.dpi
+*.hb_info
+*.sig
+verilog/magnitude_comparator/incremental_db/README
+/verilog/magnitude_comparator/output_files
+/verilog/magnitude_comparator/simulation
