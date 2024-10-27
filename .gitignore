@@ -73,3 +73,6 @@ verilog/full_adder/simulation/modelsim/vsim.wlf
 verilog/magnitude_comparator/incremental_db/README
 /verilog/magnitude_comparator/output_files
 /verilog/magnitude_comparator/simulation
+/verilog/binary_to_gray/output_files
+/verilog/binary_to_gray/simulation
+verilog/binary_to_gray/incremental_db/README
