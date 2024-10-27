@@ -76,3 +76,6 @@ verilog/magnitude_comparator/incremental_db/README
 /verilog/binary_to_gray/output_files
 /verilog/binary_to_gray/simulation
 verilog/binary_to_gray/incremental_db/README
+/verilog/gray_to_binary/output_files
+/verilog/gray_to_binary/simulation
+verilog/gray_to_binary/incremental_db/README
