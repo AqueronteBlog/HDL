@@ -79,3 +79,6 @@ verilog/binary_to_gray/incremental_db/README
 /verilog/gray_to_binary/output_files
 /verilog/gray_to_binary/simulation
 verilog/gray_to_binary/incremental_db/README
+/verilog/binary_to_7seg/output_files
+/verilog/binary_to_7seg/simulation
+verilog/binary_to_7seg/incremental_db/README
