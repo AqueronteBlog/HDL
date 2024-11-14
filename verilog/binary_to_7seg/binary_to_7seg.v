@@ -35,13 +35,13 @@ module BINARY_TO_7SEG (
 				sg7_g	<= 1;
 				sg7_f	<= 1;
 				sg7_e	<= 1;
-				sg7_d	<= 0;
+				sg7_d	<= 1;
 				sg7_c	<= 0;
 				sg7_b	<= 0;
 				sg7_a	<= 1;
 			end
 			4'b0010	:	begin	// 2
-				sg7_g	<= 1;
+				sg7_g	<= 0;
 				sg7_f	<= 1;
 				sg7_e	<= 0;
 				sg7_d	<= 0;
@@ -77,7 +77,7 @@ module BINARY_TO_7SEG (
 				sg7_a	<= 0;
 			end
 			4'b0110	:	begin	// 6
-				sg7_g	<= 1;
+				sg7_g	<= 0;
 				sg7_f	<= 0;
 				sg7_e	<= 0;
 				sg7_d	<= 0;
