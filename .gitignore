@@ -88,3 +88,6 @@ verilog/led_blinking_1s/incremental_db/README
 /verilog/binary_7_seg_improved/output_files
 /verilog/binary_7_seg_improved/simulation
 verilog/binary_7_seg_improved/incremental_db/README
+verilog/bcd_to_7_seg/incremental_db/README
+/verilog/bcd_to_7_seg/output_files
+/verilog/bcd_to_7_seg/simulation
