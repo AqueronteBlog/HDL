@@ -91,3 +91,6 @@ verilog/binary_7_seg_improved/incremental_db/README
 verilog/bcd_to_7_seg/incremental_db/README
 /verilog/bcd_to_7_seg/output_files
 /verilog/bcd_to_7_seg/simulation
+/verilog/bcd_to_7seg_8displays/output_files
+/verilog/bcd_to_7seg_8displays/simulation
+verilog/bcd_to_7seg_8displays/incremental_db/README
