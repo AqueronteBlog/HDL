@@ -1,3 +1,20 @@
+/* 
+@brief	leds_scanner.v
+@details	This example shows how to model a circuit to blink an LED as a LED scanner. 
+
+
+@return	N/A
+
+@author	Manuel Caballero
+@date		29/November/2024
+@version	29/November/2024    The ORIGIN
+@pre		This source code was tested using ModelSim-Altera.
+@warning	N/A.
+@pre		This code belongs to AqueronteBlog.
+				- GitHub:  https://github.com/AqueronteBlog
+            - YouTube: https://www.youtube.com/user/AqueronteBlog
+            - X:       https://twitter.com/aqueronteblog
+*/
 module leds_scanner #(parameter DELAY_TICKS = 32'd_50_000_000)(
 	input clock,
 	output wire[7:0] leds
