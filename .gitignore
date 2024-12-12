@@ -97,3 +97,6 @@ verilog/bcd_to_7seg_8displays/incremental_db/README
 /verilog/leds_scanner/output_files
 /verilog/leds_scanner/simulation
 verilog/leds_scanner/incremental_db/README
+/verilog/jk_flipflop_simple/output_files
+/verilog/jk_flipflop_simple/simulation
+verilog/jk_flipflop_simple/incremental_db/README
