@@ -103,3 +103,6 @@ verilog/jk_flipflop_simple/incremental_db/README
 /verilog/d_flipflop_simple/simulation
 /verilog/d_flipflop_simple/output_files
 verilog/d_flipflop_simple/incremental_db/README
+/verilog/t_flipflop_simple/output_files
+/verilog/t_flipflop_simple/simulation
+verilog/t_flipflop_simple/incremental_db/README
