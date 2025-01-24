@@ -106,3 +106,6 @@ verilog/d_flipflop_simple/incremental_db/README
 /verilog/t_flipflop_simple/output_files
 /verilog/t_flipflop_simple/simulation
 verilog/t_flipflop_simple/incremental_db/README
+/verilog/binary_counter_4bit_asynchronous/output_files
+/verilog/binary_counter_4bit_asynchronous/simulation
+verilog/binary_counter_4bit_asynchronous/incremental_db/README
