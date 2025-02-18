@@ -112,3 +112,6 @@ verilog/binary_counter_4bit_asynchronous/incremental_db/README
 /verilog/binary_counter_4bit_synchronous/output_files
 /verilog/binary_counter_4bit_synchronous/simulation
 verilog/binary_counter_4bit_synchronous/incremental_db/README
+/verilog/Johnson_4_bit_ring_counter/output_files
+/verilog/Johnson_4_bit_ring_counter/simulation
+verilog/Johnson_4_bit_ring_counter/incremental_db/README
