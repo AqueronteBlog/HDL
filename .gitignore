@@ -115,3 +115,6 @@ verilog/binary_counter_4bit_synchronous/incremental_db/README
 /verilog/Johnson_4_bit_ring_counter/output_files
 /verilog/Johnson_4_bit_ring_counter/simulation
 verilog/Johnson_4_bit_ring_counter/incremental_db/README
+/verilog/pwm_simple/output_files
+/verilog/pwm_simple/simulation
+verilog/pwm_simple/incremental_db/README
