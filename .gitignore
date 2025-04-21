@@ -118,3 +118,6 @@ verilog/Johnson_4_bit_ring_counter/incremental_db/README
 /verilog/pwm_simple/output_files
 /verilog/pwm_simple/simulation
 verilog/pwm_simple/incremental_db/README
+/verilog/multiplexor2_1_simple/output_files
+/verilog/multiplexor2_1_simple/simulation
+verilog/multiplexor2_1_simple/incremental_db/README
