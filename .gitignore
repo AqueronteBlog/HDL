@@ -124,3 +124,5 @@ verilog/multiplexor2_1_simple/incremental_db/README
 /verilog/pwm_dynamic/output_files
 /verilog/pwm_dynamic/simulation
 verilog/pwm_dynamic/incremental_db/README
+/verilog/led_scanner_pwm/incremental_db
+/verilog/led_scanner_pwm/output_files
