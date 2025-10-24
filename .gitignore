@@ -129,3 +129,6 @@ verilog/pwm_dynamic/incremental_db/README
 /verilog/ws2812b/output_files
 /verilog/ws2812b/simulation
 verilog/ws2812b/incremental_db/README
+/verilog/pixels_ws2812b/incremental_db
+/verilog/pixels_ws2812b/output_files
+/verilog/pixels_ws2812b/simulation
