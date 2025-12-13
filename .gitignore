@@ -132,3 +132,11 @@ verilog/ws2812b/incremental_db/README
 /verilog/pixels_ws2812b/incremental_db
 /verilog/pixels_ws2812b/output_files
 /verilog/pixels_ws2812b/simulation
+verilog/hc_sr04/output_files/Chain2.cdf
+/verilog/hc_sr04/output_files
+/verilog/hc_sr04/simulation
+/verilog/hc_sr04/incremental_db
+/documents
+/verilog/hc_sr04_basic_radar/output_files
+/verilog/hc_sr04_basic_radar/simulation
+verilog/hc_sr04_basic_radar/incremental_db/README
