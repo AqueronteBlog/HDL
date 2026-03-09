@@ -140,3 +140,8 @@ verilog/hc_sr04/output_files/Chain2.cdf
 /verilog/hc_sr04_basic_radar/output_files
 /verilog/hc_sr04_basic_radar/simulation
 verilog/hc_sr04_basic_radar/incremental_db/README
+/verilog/binary_to_7seg_function/simulation
+/verilog/binary_to_7seg_function/output_files
+verilog/binary_to_7seg_function/incremental_db/README
+verilog/lcd_hd44780_cmd/incremental_db/README
+/verilog/lcd_hd44780_cmd/output_files
