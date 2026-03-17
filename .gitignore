@@ -145,3 +145,6 @@ verilog/hc_sr04_basic_radar/incremental_db/README
 verilog/binary_to_7seg_function/incremental_db/README
 verilog/lcd_hd44780_cmd/incremental_db/README
 /verilog/lcd_hd44780_cmd/output_files
+verilog/parity_bit/incremental_db/README
+/verilog/parity_bit/output_files
+/verilog/parity_bit/simulation
