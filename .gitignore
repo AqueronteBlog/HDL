@@ -148,3 +148,6 @@ verilog/lcd_hd44780_cmd/incremental_db/README
 verilog/parity_bit/incremental_db/README
 /verilog/parity_bit/output_files
 /verilog/parity_bit/simulation
+/verilog/state_machine_simple/output_files
+/verilog/state_machine_simple/simulation
+verilog/state_machine_simple/incremental_db/README
