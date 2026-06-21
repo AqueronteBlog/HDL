@@ -151,3 +151,6 @@ verilog/parity_bit/incremental_db/README
 /verilog/state_machine_simple/output_files
 /verilog/state_machine_simple/simulation
 verilog/state_machine_simple/incremental_db/README
+/verilog/parity_checker/output_files
+/verilog/parity_checker/simulation
+verilog/parity_checker/incremental_db/README
