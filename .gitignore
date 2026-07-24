@@ -157,3 +157,6 @@ verilog/parity_checker/incremental_db/README
 /verilog/parity_generator_and_parity_checker/output_files
 /verilog/parity_generator_and_parity_checker/simulation
 verilog/parity_generator_and_parity_checker/incremental_db/README
+/verilog/pir/output_files
+/verilog/pir/simulation
+verilog/pir/incremental_db/README
