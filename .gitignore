@@ -160,3 +160,6 @@ verilog/parity_generator_and_parity_checker/incremental_db/README
 /verilog/pir/output_files
 /verilog/pir/simulation
 verilog/pir/incremental_db/README
+/verilog/timer_8bit/output_files
+/verilog/timer_8bit/simulation
+verilog/timer_8bit/incremental_db/README
